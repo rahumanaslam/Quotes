@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:background="#000000"
+        android:orientation="vertical"
+        tools:context="com.quotes.ButtonOne">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Malala Yousafzai"
+            android:textSize="35sp"
+            android:padding="15dp"
+            android:background="#000000"
+            android:id="@+id/button5_subButton"
+            android:textColor="@color/colorPrimary"
+            android:fontFamily="sans-serif-smallcaps"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Malala_q1"
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:id="@+id/button5_q1"
+            android:paddingBottom="15dp"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:id="@+id/button5_q2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:text="@string/Malala_q2"
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Malala_q3"
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:paddingBottom="15dp"
+            android:id="@+id/button5_q3"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Malala_q4"
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:paddingBottom="15dp"
+            android:textStyle="italic"
+            android:id="@+id/button5_q4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Malala_q5"
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:paddingBottom="15dp"
+            android:textStyle="italic"
+            android:id="@+id/button5_q5"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Malala_q6"
+            android:textColor="#ffffff"
+            android:textSize="25sp"
+            android:paddingBottom="15dp"
+            android:textStyle="italic"
+            android:id="@+id/button5_q6"/>
+
+    </LinearLayout>
+
+</ScrollView>

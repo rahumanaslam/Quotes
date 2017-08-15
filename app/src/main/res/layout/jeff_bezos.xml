@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JEFF BEZOS"
+        android:textColor="@color/colorPrimary"
+        android:textSize="35sp"
+        android:padding="15dp"
+        android:fontFamily="sans-serif-smallcaps"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="168dp"
+        android:src="@drawable/jeff"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Founded: Amazon.com , Blue Origin , Amazon China , Bezos Expeditions"
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="23sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Born: 12 Jan 1964 (age 53) · Albuquerque, NM"
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Height: 5'7"
+        android:textColor="#ffffff"
+        android:paddingLeft="15dp"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Net worth: $83.10 billion USD (2017)"
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spouse: MacKenzie Bezos (m. 1993)"
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Education: Princeton University · Miami Palmetto High School · River Oaks Elementary School"
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Timeline:"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1982: While in high school, he attended the Student Science Training Program at the University of Florida, receiving a Silver Knight Award in 1982."
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1993: Jeff Bezos married MacKenzie Bezos in 1993."
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1994: Bezos founded Amazon.com in 1994 after making a cross-country drive from New York to Seattle, writing up the Amazon business plan on the way."
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2013: In 2013, Bezos reportedly discussed commercial spaceflight opportunities and strategies with Richard Branson, multibillionaire founder of Virgin Group and chairman of Virgin Galactic."
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="2014: Bezos was named World's Worst Boss by the International Trade Union Confederation (ITUC), at their World Congress, in May 2014."
+    android:textColor="#ffffff"
+    android:padding="15dp"
+    android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2015: Ted Jorgensen, his biological father, tried in vain before his death in 2015 to contact Bezos and be acknowledged as his father."
+        android:textColor="#ffffff"
+        android:padding="15dp"
+        android:textSize="20sp"/>
+
+</LinearLayout>
+
+    </ScrollView>

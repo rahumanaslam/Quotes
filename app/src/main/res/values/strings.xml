@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="Steve_q1">Innovation distinguishes between a leader and a follower</string>
+    <string name="Steve_q2">Sometimes when you innovate ,you make mistakes .It is best to admit them quickly ,and get on with improving your other innovations</string>
+    <string name="Steve_q3">Being the richest man in the cemetery doesn\'t matter to me. Going to bed at night saying we\'ve done something wonderful ,that\'s what matters to me.</string>
+    <string name="Steve_q4">Be a yardstick of quality .Some people aren\'t used to an environment where excellence is expected.</string>
+    <string name="Steve_q5">It\'s really hard to design products by focus groups .A lot of times ,people don\'t know what they want until you show it to them</string>
+    <string name="Steve_q6">Design is not just what it looks like and feels like .Design is how it works.</string>
+    <string name="Jeff_q1">A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.</string>
+    <string name="Jeff_q2">There are two kinds of companies, those that work to try to charge more and those that work to charge less. We will be the second.</string>
+    <string name="Jeff_q3">If you do build a great experience, customers tell each other about that. Word of mouth is very powerful.</string>
+    <string name="Jeff_q4">We expect all our businesses to have a positive impact on our top and bottom lines. Profitability is very important to us or we wouldn\'t be in this business.</string>
+    <string name="Jeff_q5">What\'s dangerous is not to evolve.</string>
+    <string name="Jeff_q6">There\'ll always be serendipity involved in discovery.</string>
+    <string name="Elon_q1">There have to be reasons that you get up in the morning and you want to live. Why do you want to live? What\'s the point? What inspires you? What do you love about the future? If the future does not include being out there among the stars and being a multi-planet species, I find that incredibly depressing.</string>
+    <string name="Elon_q2">It taught me that the tough thing is figuring out what questions to ask, but that once you do that, the rest is really easy.</string>
+    <string name="Elon_q3">Physics is a good framework for thinking. Boil things down to their fundamental truths and reason up from there.</string>
+    <string name="Elon_q4">Talent is extremely important. It\'s like a sports team, the team that has the best individual player will often win, but then there\’s a multiplier from how those players work together and the strategy they employ.</string>
+    <string name="Elon_q5">You have to have a very compelling goal for the company. If you put yourself in the shoes of someones who\'s talented at a world level, they have to believe that there\’s potential for a great outcome and believe in the leader of the company, that you\’re the right guy to work with. That can be a difficult thing, especially if you\’re trying to attract people from other companies.</string>
+    <string name="Elon_q6">Really pay attention to negative feedback and solicit it, particularly from friends. Hardly anyone does that, and it\'s incredibly helpful.</string>
+    <string name="Jack_q1">Today is cruel. Tomorrow is crueler. And the day after tomorrow is beautiful.</string>
+    <string name="Jack_q2">Hire the person best suited to the job, not the most talented. This can be a very painful lesson. There’s no point putting in a Boeing jet engine when you need to run a tractor.</string>
+    <string name="Jack_q3">If you want to grow, find a good opportunity. Today, if you want to be a great company, think about what social problem you could solve.</string>
+    <string name="Jack_q4">"If you don't give up, you still have a chance. And, when you are small, you have to be very focused and rely on your brain, not your strength.</string>
+    <string name="Jack_q5">If we are a good team and know what we want to do, one of us can defeat 10 of them.</string>
+    <string name="Jack_q6">You should learn from your competitor but never copy. Copy, and you die.</string>
+    <string name="Mark_q1">By giving people the power to share, we\'re making the world more transparent.</string>
+    <string name="Mark_q2">A squirrel dying in front of your house may be more relevant to your interests right now than people dying in Africa.</string>
+    <string name="Mark_q3">I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress.</string>
+    <string name="Mark_q4">When you give everyone a voice and give people power, the system usually ends up in a really good place. So, what we view our role as, is giving people that power.</string>
+    <string name="Mark_q5">The thing that we are trying to do at facebook, is just help people connect and communicate more efficiently.</string>
+    <string name="Mark_q6">The basis of our partnership strategy and our partnership approach: We build the social technology. They provide the music.</string>
+    <string name="Malala_q1">We realize the importance of our voices only when we are silenced.</string>
+    <string name="Malala_q2">One child, one teacher, one book, one pen can change the world.</string>
+    <string name="Malala_q3">I raise up my voice-not so I can shout but so that those without a voice can be heard ,we cannot succeed when half of us are held back.</string>
+    <string name="Malala_q4">Let us pick up our books and our pens, they are the most powerful weapons.</string>
+    <string name="Malala_q5">The extremists are afraid of books and pens, the power of education frightens them. they are afraid of women.</string>
+    <string name="Malala_q6">My mother always told me," hide your face people are looking at you." I would reply," it does not matter; I am also looking at them.</string>
+</resources>
+

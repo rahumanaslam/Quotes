@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="STEVE JOBS"
+            android:textColor="@color/colorPrimary"
+            android:textSize="35sp"
+            android:padding="15dp"
+            android:fontFamily="sans-serif-smallcaps"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="168dp"
+            android:src="@drawable/steve"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Founded: Apple · NeXT · Pixar Animation Studios · Homebrew Computer Club"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="23sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lived: 24 Feb 1955 - 05 Oct 2011 (age 56)"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Spouse: Laurene Powell Jobs (m. 1991 - 2011)"
+            android:textColor="#ffffff"
+            android:paddingLeft="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Height: 6'2"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Children: Lisa Brennan-Jobs (Daughter) , Reed Jobs (Son) , Erin Siena Jobs (Daughter) , Eve Jobs (Daughter)"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="Education: Reed College (1972–1974)"
+            android:textColor="#ffffff"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="Inventions: Macintosh , iPhone , iPod , NeXT Computer , iPad , iMac , Macintosh 128K , Retina Display"
+            android:textColor="#ffffff"
+            android:textSize="20sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Timeline:"
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1975: Jobs and Wozniak attended meetings of the Homebrew Computer Club in 1975."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1976: Jobs and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1985: In May 1985, Sculley—encouraged by Arthur Rock—decided to reorganize Apple, and proposed a plan to the board that would remove Jobs from the Macintosh group and put him in charge of 'New Product Development.'"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1991: Steve Jobs married Laurene Powell Jobs on March 18, 1991."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2006: On January 24, 2006, Jobs and Iger announced that Disney had agreed to purchase Pixar in an all-stock transaction worth $7.4 billion."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2011: Jobs died at his Palo Alto, California home around 3 p.m. (PDT) on October 5, 2011, due to complications from a relapse of his previously treated islet-cell neuroendocrine pancreatic cancer, which resulted in respiratory arrest."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+</ScrollView>

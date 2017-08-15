@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="15dp"
+    android:background="#000000"
+    tools:context="com.quotes.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quotes"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textSize="50sp"
+        android:id="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:padding="15dp"
+        android:textColor="@color/colorPrimary" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:padding="15dp"
+        android:id="@+id/button1"
+        android:text="Jeff Bezos"
+        android:textSize="25sp"
+        android:textColor="#f1dddd"
+        android:textAllCaps="false"
+        android:textStyle="italic"
+        android:background="@color/colorPrimary"
+        android:onClick="onClick"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:id="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:padding="15dp"
+        android:textSize="25sp"
+        android:textColor="#f1dddd"
+        android:text="Elon Musk"
+        android:textAllCaps="false"
+        android:onClick="onClick"
+        android:textStyle="italic"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button2"
+        android:id="@+id/button3"
+        android:layout_centerHorizontal="true"
+        android:padding="15dp"
+        android:textSize="25sp"
+        android:textColor="#f1dddd"
+        android:text="Jack Ma"
+        android:textAllCaps="false"
+        android:onClick="onClick"
+        android:textStyle="italic"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button3"
+        android:id="@+id/button4"
+        android:layout_centerHorizontal="true"
+        android:padding="15dp"
+        android:textSize="25sp"
+        android:textColor="#f1dddd"
+        android:text="Mark Zuckerberg"
+        android:textAllCaps="false"
+        android:onClick="onClick"
+        android:textStyle="italic"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button4"
+        android:id="@+id/button5"
+        android:layout_centerHorizontal="true"
+        android:padding="15dp"
+        android:textSize="25sp"
+        android:textColor="#f1dddd"
+        android:text="Malala Yusafzai"
+        android:textAllCaps="false"
+        android:onClick="onClick"
+        android:textStyle="italic"
+        android:background="@color/colorPrimary"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button5"
+        android:id="@+id/button6"
+        android:layout_centerHorizontal="true"
+        android:padding="15dp"
+        android:textSize="25sp"
+        android:textColor="#f1dddd"
+        android:text="Steve Jobs"
+        android:textStyle="italic"
+        android:textAllCaps="false"
+        android:onClick="onClick"
+        android:background="@color/colorPrimary"/>
+
+
+</RelativeLayout>

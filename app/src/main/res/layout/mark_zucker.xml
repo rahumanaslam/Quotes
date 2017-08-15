@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MARK ZUCKERBERG"
+            android:textColor="@color/colorPrimary"
+            android:textSize="35sp"
+            android:padding="15dp"
+            android:fontFamily="sans-serif-smallcaps"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="168dp"
+            android:src="@drawable/mark"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Founded: Facebook , ConnectU , FWD.us"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="23sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Born: 14 May 1984 (age 33), White Plains, New York, United States"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Spouse: Priscilla Chan (m. 2012)"
+            android:textColor="#ffffff"
+            android:paddingLeft="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Net worth: 69.9 billion USD (2017) Forbes"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Siblings: Randi Zuckerberg (Sister) , Donna Zuckerberg (Sister) , Arielle Zuckerberg (Sister)"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="Education: Harvard University (2002–2004),"
+            android:textColor="#ffffff"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Timeline:"
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2003: Ma wanted to improve the global e-commerce system and from 2003 he founded Taobao Marketplace, Alipay, Ali Mama and Lynx."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2009: According to Ma and his assistant, Ma had been studying and practicing Chen-style Tai Chi Chuan, a Chinese martial arts form, in Hangzhou for some time when in 2009 he began studying with Wáng Xī'an, a well-known martial arts master and teacher."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2013: In 2013, he became chairman of the board for The Nature Conservancy's China Program; this was one day after he stepped down from Alibaba as company CEO."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2015: In 2015, Musk's statements were subject to further scrutiny when an LA Times article claimed that SpaceX, Tesla, SolarCity and buyers of their products had or were projected to receive together an estimated US$4.9 billion in government subsidies over twenty years."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2015: In 2015 Ma made his first purchase of conservation land outside China when he bought a 28,100-acre property named Brandon Park in Paul Smiths, New York, in Adirondack Park for $23 million."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+</ScrollView>

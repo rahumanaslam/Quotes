@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+   <LinearLayout
+       xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       xmlns:tools="http://schemas.android.com/tools"
+       android:background="#000000"
+       android:orientation="vertical"
+       tools:context="com.quotes.ButtonOne">
+
+      <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Jeff Bezos"
+          android:textSize="35sp"
+          android:paddingBottom="15dp"
+          android:paddingTop="15dp"
+          android:id="@+id/button1_subButton"
+          android:textColor="@color/colorPrimary"
+          android:background="#000000"
+          android:fontFamily="sans-serif-smallcaps"
+          android:onClick="onClick"/>
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/Jeff_q1"
+          android:textColor="#ffffff"
+          android:textSize="25sp"
+          android:id="@+id/button1_q1"
+          android:paddingBottom="15dp"
+          android:textStyle="italic"/>
+
+      <TextView
+          android:id="@+id/button1_q2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingBottom="15dp"
+          android:text="@string/Jeff_q2"
+          android:textColor="#ffffff"
+          android:textSize="25sp"
+          android:textStyle="italic" />
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/Jeff_q3"
+          android:textColor="#ffffff"
+          android:textSize="25sp"
+          android:paddingBottom="15dp"
+          android:id="@+id/button1_q3"
+          android:textStyle="italic"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/Jeff_q4"
+          android:textColor="#ffffff"
+          android:textSize="25sp"
+          android:paddingBottom="15dp"
+          android:textStyle="italic"
+          android:id="@+id/button1_q4"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/Jeff_q5"
+          android:textColor="#ffffff"
+          android:textSize="25sp"
+          android:paddingBottom="15dp"
+          android:textStyle="italic"
+          android:id="@+id/button1_q5"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/Jeff_q6"
+          android:textColor="#ffffff"
+          android:textSize="25sp"
+          android:paddingBottom="15dp"
+          android:textStyle="italic"
+          android:id="@+id/button1_q6"/>
+
+   </LinearLayout>
+
+</ScrollView>

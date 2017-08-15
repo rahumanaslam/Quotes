@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MALALA YOUSAFZAI"
+            android:textColor="@color/colorPrimary"
+            android:textSize="35sp"
+            android:padding="15dp"
+            android:fontFamily="sans-serif-smallcaps"/>
+
+        <ImageView
+            android:layout_width="371dp"
+            android:layout_height="168dp"
+            android:src="@drawable/malala"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Books: I Am Malala: How One Girl Stood Up for Education and Changed the World."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="23sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Born: 12 July 1997 (age 20), Mingora, Pakistan"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Awards: Nobel Peace Prize, Sakharov Prize."
+            android:textColor="#ffffff"
+            android:paddingLeft="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Education: Edgbaston High School (2013–2017), Khushal Public School (2012)"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Movies: He Named Me Malala"
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="Parents: Ziauddin Yousafzai, Tor Pekai Yousafzai"
+            android:textColor="#ffffff"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Timeline:"
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1997: Yousafzai was born on 12 July, 1997 in the Swat District of Pakistan's northwestern Khyber Pakhtunkhwa province to Ziauddin Yousafzai and Tor Pekai Yousafzai."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2011: In October 2011, Archbishop Desmond Tutu, a South African activist, nominated Yousafzai for the International Children's Peace Prize of the Dutch international children's advocacy group KidsRights Foundation."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2012: In 2012, she was the recipient of Pakistan's first National Youth Peace Prize and the 2013 Sakharov Prize."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2012: On 9 October 2012, a Taliban gunman shot Yousafzai as she rode home on a bus after taking an exam in Pakistan's Swat Valley."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2013: On 12 July 2013, Yousafzai's 16th birthday, she spoke at the UN to call for worldwide access to education."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2014: On 10 October 2014, Yousafzai was announced as the co-recipient of the 2014 Nobel Peace Prize for her struggle against the suppression of children and young people and for the right of all children to education."
+            android:textColor="#ffffff"
+            android:padding="15dp"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+</ScrollView>
